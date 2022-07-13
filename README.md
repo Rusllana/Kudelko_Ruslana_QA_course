@@ -1,1 +1,1 @@
-# Kudelko_Ruslana_QA
+# Kudelko_Ruslana_QA_course
